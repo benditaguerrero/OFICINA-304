@@ -1,0 +1,18 @@
+:root {
+    --bg-body: #a5e3e7;
+    --bg-card: #f079d69f;
+    --text-main: #1e155c;
+    --text-muted: #333a75;
+    --primary: #312372; 
+}
+
+body {
+    max-width: 800px;
+    margin: auto;
+}
+
+img {
+    max-width: 40%;
+    height: auto;
+    border-radius: 4rem
+}
