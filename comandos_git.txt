@@ -1,0 +1,9 @@
+git -- version : Muestra la versión instalada
+git init : Inicia el repositorio en la carperta actual
+git add : Agrega cambios al área de preparación
+git commit : agrega cambios junto a un mensaje dedscriptivo
+git status : muestra el estado del repositorio y si se han agregado cambios
+
+REVISE EL REPOSITORIO ONLINE EN:
+
+https://github.com/benditaguerrero/OFICINA-304
